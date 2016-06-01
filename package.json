@@ -1,0 +1,17 @@
+{
+  "name": "mock-interactive-brexit-companion-data",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "postinstall": "./scripts/self-signed-certificate.sh",
+    "start": "./node_modules/.bin/http-server -S --cert self-signed.crt --key self-signed.key --cors -p 8082",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "http-server": "^0.9.0"
+  }
+}
