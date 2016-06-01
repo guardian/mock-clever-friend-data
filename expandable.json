@@ -1,0 +1,26 @@
+{
+  "sheets": {
+    "content": [
+      {
+        "id": "who_can_vote",
+        "format": "expandable",
+        "headline1": "Who can vote and how?",
+        "content1": "British, Irish and Commonwealth citizens over 18 who are resident in the UK can vote, as can UK nationals living abroad who have been on the UK electoral register in the last 15 years. Members of the House of Lords and Commonwealth citizens in Gibraltar will also be eligible, unlike in a general election. Citizens from EU countries - excluding Ireland, Malta and Cyprus - will not get a vote. You can register to vote on the <a href=\"https://www.gov.uk/register-to-vote\" target=\"_blank\">government website</a> or by post before 7 June 2016. ",
+        "headline2": "",
+        "content2": "",
+        "headline3": "",
+        "content3": "",
+        "headline4": "",
+        "content4": "",
+        "headline5": "",
+        "content5": "",
+        "headline6": "",
+        "content6": "",
+        "survey_like": "https://s.userzoom.com/m/MTggQzEwUzI3MyAg",
+        "survey_dislike": "https://s.userzoom.com/m/MTkgQzEwUzI3MyAg",
+        "level": "beginner",
+        "last_updated": "25/05/2016"
+      }
+    ]
+  }
+}
