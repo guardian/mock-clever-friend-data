@@ -1,4 +1,4 @@
-# Mock Interactive Brexit Companion Data Server
+# Mock Clever Friend Data Server
 
 ## Install
 
@@ -14,3 +14,7 @@ It does not matter what you choose as the certificate and key will not be checke
 ```
 npm start
 ```
+
+## Get data
+
+[https://localhost:8082/expandable.json](https://localhost:8082/expandable.json)
