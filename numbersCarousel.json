@@ -1,0 +1,26 @@
+{
+  "sheets": {
+    "content": [
+      {
+        "id": "numbers_1",
+        "format": "number_carousel",
+        "headline1": "136",
+        "content1": "Times the word \"in\" was used in the speech in which David Cameron announced Britain would have a referendum",
+        "headline2": "13",
+        "content2": "Times the word \"out\" was used in the same speech",
+        "headline3": "15",
+        "content3": "The number of years after which UK citizens living in the EU, but outside the UK (of which there are 2.3 million) can't vote in the referendum.",
+        "headline4": "£8.5bn",
+        "content4": "The UK's net contribution to the EU in 2015. ",
+        "headline5": "30%",
+        "content5": "The proportion of people in the other 27 EU countries who say it \"doesn't matter\" whether the UK leaves or not.",
+        "headline6": "",
+        "content6": "",
+        "survey_like": "https://s.userzoom.com/m/NTIgQzEwUzI3MyAg",
+        "survey_dislike": "https://s.userzoom.com/m/NTMgQzEwUzI3MyAg",
+        "level": "beginner",
+        "last_updated": "25/05/2016"
+      }
+    ]
+  }
+}
