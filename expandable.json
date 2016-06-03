@@ -20,6 +20,26 @@
         "survey_dislike": "https://s.userzoom.com/m/MTkgQzEwUzI3MyAg",
         "level": "beginner",
         "last_updated": "25/05/2016"
+      },
+      {
+        "id": "campaign_funds",
+        "format": "expandable",
+        "headline1": "Who funds the campaigns?",
+        "content1": "<ol><li>Each of the official campaigns â€“ Britain Stronger in Europe and Vote Leave - is allowed to spend Â£7m in the 10 weeks leading up to the referendum, this mostly comes from donations, though each official campaign also receives Â£650,000 in public funding.</li>\n<li>Britain Stronger in Europe has raised Â£6.88m, helped by two donations from Lord Sainsbury, the supermarket magnate and Labour peer, totalling Â£2.3m.</li>\n<li>Vote Leave has raised Â£2.78m. Businessman Patrick Barbour gave Â£500,000 and former Conservative Party treasurer Peter Cruddas donated Â£350,000.</li>\n<li>Once the donations to the smaller registered groups were taken into account the leave campaign received more overall funding than the remain campaign (Â£8.2m compared to Â£7.5m)</li></ol>",
+        "headline2": "",
+        "content2": "",
+        "headline3": "",
+        "content3": "",
+        "headline4": "",
+        "content4": "",
+        "headline5": "",
+        "content5": "",
+        "headline6": "",
+        "content6": "",
+        "survey_like": "https://s.userzoom.com/m/NDYgQzEwUzI3MyAg",
+        "survey_dislike": "https://s.userzoom.com/m/NDcgQzEwUzI3MyAg",
+        "level": "intermediate",
+        "last_updated": ""
       }
     ]
   }
